@@ -9,6 +9,7 @@ Morse-Code-Translator [Click here to visit](https://morse-code-translator-by-roh
  lights, or clicks that can be directly understood by a skilled listener or observer without special equipment.
  
 
+![Screenshot from 2023-01-11 07-50-15](https://user-images.githubusercontent.com/90442893/211702866-e0ed5cb3-5cf6-4bf1-af8c-18965776cb3b.png)
 
 
 # Problem Statement: 
