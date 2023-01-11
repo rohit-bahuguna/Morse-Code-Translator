@@ -13,7 +13,7 @@ Morse-Code-Translator [Click here to visit](https://morse-code-translator-by-roh
 
 
 # Problem Statement: 
- - i have to buid a recommendation app [like this ](https://neog.camp/guide/markSeven#markseven)
+ - i have to buid a Fun Translator App [like this ](https://neog.camp/guide/markSeven#markseven)
 
 
 # How to use:
